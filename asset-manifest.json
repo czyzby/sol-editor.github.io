@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.4839a0d9.css",
-    "main.js": "/static/js/main.b89cc877.js",
+    "main.css": "/static/css/main.278527c8.css",
+    "main.js": "/static/js/main.dc2776f0.js",
     "static/js/453.8d47e9d9.chunk.js": "/static/js/453.8d47e9d9.chunk.js",
     "static/media/background.png": "/static/media/background.7484fd6502527080d545.png",
     "static/media/Gotham-Light.woff2": "/static/media/Gotham-Light.323311215a24bfacd049.woff2",
     "static/media/Gotham-Medium.woff2": "/static/media/Gotham-Medium.35830b3933fbbacc886e.woff2",
-    "static/media/Gotham-Black.woff2": "/static/media/Gotham-Black.e310add73389e82cd906.woff2",
     "static/media/Gotham-Bold.woff2": "/static/media/Gotham-Bold.18b55059de38232834b6.woff2",
     "static/media/logo.svg": "/static/media/logo.b0b5cd906aa5fb148cf34b6d69acd905.svg",
     "static/media/token-background.svg": "/static/media/token-background.53191c2a85f80e029feebb1904df7136.svg",
@@ -17,12 +16,12 @@
     "static/media/token-placeholder.svg": "/static/media/token-placeholder.4b9ef93b3bf30175f06035acf8b7765b.svg",
     "static/media/move.svg": "/static/media/move.553f0ac3689d0c85307030a48f050b00.svg",
     "static/media/activate.svg": "/static/media/activate.af0aa0d2f5a5316c1e3a099dd0ffb66e.svg",
-    "main.4839a0d9.css.map": "/static/css/main.4839a0d9.css.map",
-    "main.b89cc877.js.map": "/static/js/main.b89cc877.js.map",
+    "main.278527c8.css.map": "/static/css/main.278527c8.css.map",
+    "main.dc2776f0.js.map": "/static/js/main.dc2776f0.js.map",
     "453.8d47e9d9.chunk.js.map": "/static/js/453.8d47e9d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4839a0d9.css",
-    "static/js/main.b89cc877.js"
+    "static/css/main.278527c8.css",
+    "static/js/main.dc2776f0.js"
   ]
 }
